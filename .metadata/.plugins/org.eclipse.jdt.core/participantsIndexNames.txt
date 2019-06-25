@@ -1,0 +1,3 @@
+INDEX VERSION 1.131
+D:\projects\eclipse-workspace\autocat\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2165154384.index
+\autocatalog-1-1\src\main\java
